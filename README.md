@@ -20,7 +20,7 @@ Grapes Mi is a web application to manage the creation of operating systems for I
 <div align="center"><img src="readmeImg/project.png"/></div>
 
 ## Search
-<div align="center"><img src="readmeImg/project.png"/></div>
+<div align="center"><img src="readmeImg/search.png"/></div>
 
 ## Dark Mode
 <div align="center"><img src="readmeImg/darkMode.png"/></div>
