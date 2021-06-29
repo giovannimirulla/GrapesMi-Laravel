@@ -2,6 +2,7 @@ function switchAction(event) {
     let type = (route().current() == "login") ? "signup" : "login";
     switchForm(type);
     window.history.pushState(null, null, type);
+    document.title = type.charAt(0).toUpperCase() + type.slice(1) + " - Grapes Mi";
 }
 
 function checkForm() {

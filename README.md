@@ -3,10 +3,7 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&style=flat" alt="HTML">
-<img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&style=flat" alt="CSS">
-<img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white&style=flat" alt="PHP">
-<img src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=3c3c3c&style=flat" alt="Javascript">
+<img src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white&style=flat" alt="Laravel">
 </p>
 
 ## About Grapes Mi

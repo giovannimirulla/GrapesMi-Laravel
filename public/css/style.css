@@ -1967,6 +1967,7 @@ textarea:focus {
         height: 20vh;
         width: 94%;
         margin: 1%;
+        max-width: 94%;
     }
     #profile.dashboard .title {
         width: 90%;
